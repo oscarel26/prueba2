@@ -6,6 +6,9 @@ Starting XCACLS.VBS (Version: 5.2) Script at 6/11/2013 3:16:05 PM
 Startup directory:
 "C:\Users\oespinoz"
 
+
+verificando prueba
+
 Arguments Used:
 	Filename = "C:\Users\oespinoz\Documents\prueba"
 	/S (All Sub Directories under current directory)
