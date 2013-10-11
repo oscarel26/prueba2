@@ -1,46 +1,46 @@
-Microsoft (R) Windows Script Host Version 5.8	
-Copyright (C) Microsoft Corporation. All rights reserved.	
-	
-Starting XCACLS.VBS (Version: 5.2) Script at 6/11/2013 3:16:05 PM	
-	
-Startup directory:	
-C:\Users\oespinoz	
-	
-	
-verificando prueba	
-	
-Arguments Used:	
-	"Filename = ""C:\Users\oespinoz\Documents\prueba"""
-	/S (All Sub Directories under current directory)
-	/T (Traverse Directories)
-	
-prueba 2	
-prueba45	
-prueba3	
-	
-prueba7	
-	
-prueba8	
-prueba 9	
-	
-pureba10	prueba11
-**************************************************************************	
-Directory: C:\Users\oespinoz\Documents\prueba	
-	
-Permissions:	
-Type     Username                Permissions           Inheritance           	
-	
-"Allowed  NT AUTHORITY\SYSTEM     Full Control          This Folder, Subfolde "	
-"Allowed  BUILTIN\Administrators  Full Control          This Folder, Subfolde "	
-"Allowed  ULIMA\oespinoz          Full Control          This Folder, Subfolde "	
-	
-No Auditing set	
-	
-Owner: ULIMA\oespinoz	
-**************************************************************************	
-	
-	
-Operation Complete	
-Elapsed Time: 4.296875E-02 seconds.	
-	
-Ending Script at 6/11/2013 3:16:05 PM	
+Microsoft (R) Windows Script Host Version 5.8		
+Copyright (C) Microsoft Corporation. All rights reserved.		
+		
+Starting XCACLS.VBS (Version: 5.2) Script at 6/11/2013 3:16:05 PM		
+		
+Startup directory:		
+C:\Users\oespinoz		
+		
+		
+verificando prueba		
+		
+Arguments Used:		
+	"Filename = ""C:\Users\oespinoz\Documents\prueba"""	
+	/S (All Sub Directories under current directory)	
+	/T (Traverse Directories)	
+		
+prueba 2		
+prueba45		
+prueba3		
+		
+prueba7		
+		
+prueba8		
+prueba 9		
+		
+pureba10	prueba11	prueba14
+**************************************************************************		
+Directory: C:\Users\oespinoz\Documents\prueba		
+		
+Permissions:		
+Type     Username                Permissions           Inheritance           		
+		
+"Allowed  NT AUTHORITY\SYSTEM     Full Control          This Folder, Subfolde "		
+"Allowed  BUILTIN\Administrators  Full Control          This Folder, Subfolde "		
+"Allowed  ULIMA\oespinoz          Full Control          This Folder, Subfolde "		
+		
+No Auditing set		
+		
+Owner: ULIMA\oespinoz		
+**************************************************************************		
+		
+		
+Operation Complete		
+Elapsed Time: 4.296875E-02 seconds.		
+		
+Ending Script at 6/11/2013 3:16:05 PM		
